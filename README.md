@@ -32,3 +32,6 @@ cellWidthRatio : The variable that used when changing the collection view appear
 searchBar : Is the function that making search
 
 pageNumber : Variable specifying how many pages to fetch and view from the remote server
+
+# Unit Tests 
+testServerResponse : is the function checking server response with router (from network layer) generated url.
